@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cloud Geographic Quiz</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="enter_your_name">Пожалуйста, введите Ваше имя.</string>
+    <string name="name">Имя</string>
+    <string name="start">Начало</string>
+    <string name="result">Результат</string>
+    <string name="conqura">Поздравляю!</string>
+    <string name="finish">Финиш</string>
+</resources>
