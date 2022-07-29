@@ -4,6 +4,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    android:scrollbarThumbVertical="@color/colorAccent"
+    android:scrollbarSize="4dp"
     tools:context=".QuizQuestionsActivity">
 
     <LinearLayout
@@ -125,6 +128,7 @@
             android:layout_margin="10dp"
             android:background="@color/colorPrimary"
             android:text="SUBMIT"
+            android:textAllCaps="false"
             android:textColor="@android:color/white"
             android:textSize="18sp"
             android:textStyle="bold" />

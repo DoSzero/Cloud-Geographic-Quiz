@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Dmytro/Desktop/Cloud Geographic Quiz/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Dmytro/Desktop/Cloud Geographic Quiz/app/src/main/res/layout/activity_quiz_questions.xml" value="0.175" />
+        <entry key="..\:/Users/Dmytro/Desktop/Cloud Geographic Quiz/app/src/main/res/layout/activity_result.xml" value="0.175" />
+        <entry key="..\:/Users/Dmytro/Desktop/Cloud Geographic Quiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1095" />
+        <entry key="..\:/Users/Dmytro/Desktop/Cloud Geographic Quiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1095" />
         <entry key="..\:/Users/Dmytro/Desktop/Version_7/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/Dmytro/Desktop/Version_7/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
       </map>
